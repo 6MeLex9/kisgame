@@ -3,6 +3,8 @@
 Портирование классической игры Chuck-A-Luck с BASIC на Python.
 
 ## 🚀 Запуск
+<img width="1112" height="798" alt="image" src="https://github.com/user-attachments/assets/a64b9f40-f2eb-42d8-ba02-11e2d676432d" />
+
 
 ### Локально (Python):
 ```bash
@@ -84,5 +86,6 @@ Python 3.6+
 
 Современный браузер (для web-версии)
 ```
+
 
 
