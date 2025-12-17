@@ -9,10 +9,14 @@
 make run
 # или
 python chuck_a_luck.py
+<img width="518" height="307" alt="image" src="https://github.com/user-attachments/assets/9702b788-0135-40f5-96d8-781949104f94" />
+
 ```
 # Тестирование:
 ```bash
 make test
+<img width="521" height="609" alt="image" src="https://github.com/user-attachments/assets/1801c9d9-e4c7-402c-bcbd-61179a0e9aa7" />
+
 ```
 # Web-версия:
 Откройте web_game.html в браузере
@@ -22,6 +26,8 @@ make test
 ```
 make serve
 Затем откройте http://localhost:8000/web_game.html
+<img width="1112" height="798" alt="image" src="https://github.com/user-attachments/assets/c23972d5-4f87-4ddd-a79a-bdb294af47cf" />
+
 ```
 # 🎮 Правила игры
 ```
@@ -78,4 +84,5 @@ Python 3.6+
 
 Современный браузер (для web-версии)
 ```
+
 
